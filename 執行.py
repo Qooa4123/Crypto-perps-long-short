@@ -1,7 +1,3 @@
-Original file is located at
-    https://colab.research.google.com/drive/1YK4QgdMI3U74nEfE-xq6mpdCUJq2Id_j
-"""
-
 import os
 import zipfile
 import pandas as pd
